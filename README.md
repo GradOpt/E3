@@ -1,19 +1,12 @@
 # Efficient and Effective Model Extraction
-Code for the paper 'Efficient and Effective Model Extraction' submitted to IEEE ICASSP 2025.
+Code for the paper 'Efficient and Effective Model Extraction' accepted at IEEE ICASSP 2025.
 
 This repository is still undergoing reorganization to provide continuous support for the paper.
 
 ---
 
-## **Important Notice:**  
-Due to an unfortunate LaTeX typo, there is a mistake in the formula presented in **Proposition** under Section **III.METHODOLOGY B.Temperature Scaling in Black-box Extraction**. We sincerely apologize for this oversight and all known typos have been corrected. The revised version of the paper can be found in the following document: [**/Document/E3_Revision.pdf**](./Document/E3_Revision.pdf).
-
-Thank you for your understanding and your interest in our work.
-
----
-
 ## Usage
-The core implementation is now available. Experiment parameters on CIFAR-10 are listed in the corresponding `.py` files. We will provide more guidelines with flexible parameter settings in the coming days.
+The core implementation is now available. Experimental parameters on CIFAR-10 are listed in the corresponding `.py` files.
 
 To run E3:
 
