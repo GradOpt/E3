@@ -1,8 +1,6 @@
 # Efficient and Effective Model Extraction
 Code for the paper 'Efficient and Effective Model Extraction' accepted at IEEE ICASSP 2025.
 
-This repository is still undergoing reorganization to provide continuous support for the paper.
-
 ---
 
 ## Usage
